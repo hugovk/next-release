@@ -1,2 +1,3 @@
-# next-release
-Upcoming Python releases
+# Upcoming Python releases
+
+https://hugovk.github.io/next-release/
